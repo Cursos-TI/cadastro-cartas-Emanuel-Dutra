@@ -2,8 +2,6 @@
 
 int main()
 {
-
-
 	char estado1;
 	char codigo1[4];
 	char nome_cidade1[50];
@@ -95,9 +93,6 @@ printf("\n");
 		printf("A area oculpada %.2f\n km2", area2);
 		printf("O PIB da cidade e: %.2f\n", pib2);
 		printf("O numero de pontos turisticos da cidadade e: %d\n", pontos_turisticos2);
-
-
-
 
 return 0;
 
